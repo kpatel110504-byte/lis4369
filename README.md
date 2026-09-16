@@ -1,0 +1,21 @@
+> **NOTE:** This README.md file should be placed at the **root of your main directory.**
+
+# Class number and name
+
+## Your name
+
+### Class Number Requirements:
+
+_Course Work Links:_
+
+1. [A1 README.md](a1/README.md "My A1 README.md file")
+   Install R
+   Install R Studio
+   Install Visual Studio Code
+   Create a1_tip_calculator application
+   Provide screenshots of installations
+   Create Bitbucket repo
+   Complete Bitbucket tutorial (bitbucketstationlocations)
+   Provide git command descriptions
+
+2. [A2 README.md](a2/README.md "My A2 README.md file")
