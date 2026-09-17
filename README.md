@@ -14,4 +14,4 @@ _Course Work Links:_
 - Install VS Code
 - Jyupter Installation
 
-2. [A2 README.md](a2/README.md "My A2 README.md file")
+  2.[A2 README.md](a2/README.md "My A2 README.md file")
