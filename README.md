@@ -8,8 +8,9 @@
 
 _Course Work Links:_
 
-1. [A1 README.md](a1/README.md "My A1 README.md file")
+1. [A1 README.md](a1/README.md "MY A1 README.md file")
    - install R
    - install vs code
+   - jypter installation
 
 2. [A2 README.md](a2/README.md "My A2 README.md file")
