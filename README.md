@@ -6,12 +6,9 @@
 
 ### LIS4369 Requirements:
 
-_Course Work Links:_
+*Course Work Links:*
 
-1.[A1 README.md](a1/README.md "My A1 README.md file")
-
-- Install R
-- Install VS Code
-- Jupyter Installation
-- Tip Calculator
-- Paycheck Calculator
+ 1.[A1 README.md](a1/README.md "My A1 README.md file")
+    - Install R
+    - Install VS Code
+    - Jupyter Installation
