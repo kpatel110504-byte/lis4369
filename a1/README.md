@@ -32,6 +32,10 @@ _Four Parts:_
 6. `git pull` - Fetch and merge changes from the remote repository into the working directory.
 7. `git clone` - Create a working copy of a remote repository.
 
+##### Tip Calculator Code:
+
+[Tip Calculator Jupyter Notebook](a1_tip_calculator/tip_calculator.ipynb)
+
 #### Assignment Screenshots
 
 _Screenshot of A1 Jupyter Notebook:_
