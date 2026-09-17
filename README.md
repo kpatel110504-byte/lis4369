@@ -6,9 +6,10 @@
 
 ### LIS4369 Requirements:
 
-*Course Work Links:*
+_Course Work Links:_
 
- 1.[A1 README.md](a1/README.md "My A1 README.md file")
-    - Install R
-    - Install VS Code
-    - Jupyter Installation
+1.[A1 README.md](a1/README.md "My A1 README.md file")
+
+- Install R
+- Install VS Code
+- Jupyter Installation
