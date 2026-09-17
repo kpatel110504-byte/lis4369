@@ -1,6 +1,6 @@
 > **NOTE:** This README.md file should be placed at the **root of your main directory.**
 
-#LIS4369 - Extensible Enterprise Solutions
+# LIS4369 - Extensible Enterprise Solutions
 
 ## Khushi Patel
 
@@ -8,9 +8,10 @@
 
 _Course Work Links:_
 
-1. [A1 README.md](a1/README.md "My A1 README.md file")
-   - install R
-   - Install Vs code
-   - Questions
+1.[A1 README.md](a1/README.md "My A1 README.md file")
 
-2. [A2 README.md](a2/README.md "My A2 README.md file")
+- Install R
+- Install VS Code
+- Jupyter Installation
+- Tip Calculator
+- Paycheck Calculator
