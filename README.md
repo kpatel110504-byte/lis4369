@@ -9,13 +9,12 @@
 _Course Work Links:_
 
 1. [A1 README.md](a1/README.md "My A1 README.md file")
-
-- Install R
-- Install python
-- Install VS Code
-- Create a1_tip_calculator application
-- Provide screenshots of installations
-- Create Bitbucket repo
-- Provide git command descriptions
+   - Install R
+   - Install python
+   - Install VS Code
+   - Create a1_tip_calculator application
+   - Provide screenshots of installations
+   - Create Bitbucket repo
+   - Provide git command descriptions
 
 2. [A2 README.md](a2/README.md "My A2 README.md file")
