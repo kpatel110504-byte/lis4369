@@ -55,6 +55,4 @@ _Screenshot of `my_env_versions.py` output:_
 
 ![A2 Python Environment Versions](img/my_env_versions.png)
 
-_*A2 Reverse-Engineered Program:*_
-
 ![A2 Reverse-Engineered Program](A2_Reverse-Engineered_Program.gif)
