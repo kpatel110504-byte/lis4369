@@ -1,18 +1,29 @@
-> **NOTE:** This README.md file should be placed at the **root of your main directory.**
-
 # LIS4369 - Extensible Enterprise Solutions
 
 ## Khushi Patel
 
-### LIS4369 Requirements:
+### LIS4369 Requirements
 
-_Course Work Links:_
+1.[A1 README.md](a1/README.md "My A1 README.md file")
 
-1. [A1 README.md](a1/README.md "My A1 README.md file")
-   - Install R
-   - Install VS Code
-   - Jupyter Installation
-2. [A2 README.md](a2/README.md "My A2 README.md file")
-   - Conda Environment
-   - Jupyter Notebook
-   - Skillsets
+- Install Python
+- Install R
+- Install R Studio
+- Install Visual Studio Code
+- Create "a1_tip_calculator" application
+- Create "a1_tip_calculator" Jupyter Notebook
+- Provide screenshots of installations
+- Create Bitbucket repo
+- Complete Bitbucket tutorial
+- Provide git command descriptions
+
+2.[A2 README.md](a2/README.md "My A2 README.md file")
+
+- Create new Conda test environment
+- Install Conda environment packages
+- Install and clean patients.csv file
+- Create .yml file containing Conda environment and packages
+- Create program "my_env_versions" to display environment packages
+- Complete Skillset 1: Square Feet to Acres
+- Complete Skillset 2: Miles Per Gallon
+- Complete Skillset 3: IT/ICT Student Percentage
