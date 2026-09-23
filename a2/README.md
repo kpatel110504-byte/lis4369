@@ -54,3 +54,7 @@ _Screenshot of `conda env list`:_
 _Screenshot of `my_env_versions.py` output:_
 
 ![A2 Python Environment Versions](img/my_env_versions.png)
+
+- _A2 Reverse-Engineered Program:_
+
+![A2 Reverse-Engineered Program](A2_Reverse-Engineered_Program.gif)
