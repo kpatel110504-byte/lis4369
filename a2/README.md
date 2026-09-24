@@ -59,7 +59,7 @@ _*A2 Reverse-Engineered Program:*_
 
 ![A2 Reverse-Engineered Program](img/A2 Reverse-Engineered Program.gif)
 
-### [Skillsets](skillsets/)
+### [Skillsets](../skillsets/)
 
 ### Skillset 1: Square Feet to Acres
 
