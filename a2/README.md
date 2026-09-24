@@ -58,3 +58,17 @@ _Screenshot of `my_env_versions.py` output:_
 _*A2 Reverse-Engineered Program:*_
 
 ![A2 Reverse-Engineered Program](img/A2 Reverse-Engineered Program.gif)
+
+## Skillsets
+
+### Skillset 1: Square Feet to Acres
+
+![Skillset 1 - Square Feet to Acres](img/SS1.png)
+
+### Skillset 2: Miles Per Gallon
+
+![Skillset 2 - Miles Per Gallon](img/SS2.png)
+
+### Skillset 3: IT/ICT Student Percentage
+
+![Skillset 3 - IT/ICT Student Percentage](img/SS3.png)
