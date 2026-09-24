@@ -45,7 +45,7 @@ The assignment uses a conda environment named `testenv`.
 
 [my_env_versions.py](my_env_versions.py)
 
-[Patients.csv](patients.csv.py)
+[Patients.csv](patients.csv.)
 
 ** Assignment Screenshots**
 
