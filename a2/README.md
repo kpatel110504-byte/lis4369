@@ -63,12 +63,12 @@ _*A2 Reverse-Engineered Program:*_
 
 ### Skillset 1: Square Feet to Acres
 
-![Skillset 1 - Square Feet to Acres](img/SS1.png)
+![Skillset 1 - Square Feet to Acres](img/SS1 Functions.png)
 
 ### Skillset 2: Miles Per Gallon
 
-![Skillset 2 - Miles Per Gallon](img/SS2.png)
+![Skillset 2 - Miles Per Gallon](img/SS2 Functions.png)
 
 ### Skillset 3: IT/ICT Student Percentage
 
-![Skillset 3 - IT/ICT Student Percentage](img/SS3.png)
+![Skillset 3 - IT/ICT Student Percentage](img/SS3 Functions.png)
