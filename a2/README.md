@@ -31,21 +31,23 @@ _Five Parts:_
 4. `Analyze` - Analyze patient insurance information.
 5. `Visualize` - Create a bar chart showing patients with and without insurance.
 
-**##### A2 Jupyter Notebook:**
+**A2 Jupyter Notebook:**
 
-[A2 Jupyter Notebook](A2.ipynb)
+[A2 Jupyter Notebook](my_env_versions.ipynb)
 
-**##### Conda Environment:**
+** Conda Environment:**
 
 The assignment uses a conda environment named `testenv`.
 
-**##### Environment Files:**
+** Environment Files:**
 
 [testenv.yml](testenv.yml)
 
 [my_env_versions.py](my_env_versions.py)
 
-**#### Assignment Screenshots**
+[Patients.csv](patients.csv.py)
+
+** Assignment Screenshots**
 
 _Screenshot of `conda env list`:_
 
