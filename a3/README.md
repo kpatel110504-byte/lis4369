@@ -21,7 +21,7 @@
 
 _A3 Reverse-Engineered Program:_
 
-![A3 Reverse-Engineered Program](img/a3.gif)
+![A3 Reverse-Engineered Program](img/A3 Reverse-Engineered Program.gif)
 
 ### Assignment Skillsets:
 
