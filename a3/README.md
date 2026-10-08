@@ -27,12 +27,12 @@ _A3 Reverse-Engineered Program:_
 
 #### _Skillset 4: Calorie Percentage:_ [SS4 Functions](../skillsets/ss4_calorie_percentage/functions.py)
 
-[SS4 Screenshot](./img/SS4 Functions.png)
+[SS4 Screenshot](img/SS4 Functions.png)
 
 #### _Skillset 5: Python Selection Structures:_ [SS5 Functions](../skillsets/ss5_python_selection_structures/functions.py)
 
-[SS5 Screenshot](./img/SS5 Functions.png)
+[SS5 Screenshot](img/SS5 Functions.png)
 
 #### _Skillset 6: Python Loops:_ [SS6 Functions](../skillsets/ss6_python_loops/functions.py)
 
-[SS6 Screenshot](./img/SS6 Functions.png)
+[SS6 Screenshot](img/SS6 Functions.png)
