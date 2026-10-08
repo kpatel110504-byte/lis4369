@@ -19,7 +19,7 @@
 
 #### _A3 Reverse-Engineered Program:_ [a3.ipynb](./a3.ipynb)
 
-#### _A3 Reverse-Engineered Program:_
+_A3 Reverse-Engineered Program:_
 
 ![A3 Reverse-Engineered Program](img/a3.gif)
 
