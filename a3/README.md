@@ -19,7 +19,9 @@
 
 #### _A3 Reverse-Engineered Program:_ [a3.ipynb](./a3.ipynb)
 
-[A3 GIF](./img/A3 Reverse-Engineered Program.gif)
+#### _A3 Reverse-Engineered Program:_
+
+![A3 Reverse-Engineered Program](img/a3.gif)
 
 ### Assignment Skillsets:
 
