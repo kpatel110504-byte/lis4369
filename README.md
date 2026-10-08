@@ -17,7 +17,7 @@
 - Complete Bitbucket tutorial
 - Provide git command descriptions
 
-2.[A2 README.md](a2/README.md "My A2 README.md file")
+  2.[A2 README.md](a2/README.md "My A2 README.md file")
 
 - Create new Conda test environment
 - Install Conda environment packages
@@ -27,3 +27,11 @@
 - Complete Skillset 1: Square Feet to Acres
 - Complete Skillset 2: Miles Per Gallon
 - Complete Skillset 3: IT/ICT Student Percentage
+
+  3.[A3 README.md](a3/README.md "My A3 README.md file")
+
+- Ensure Python test environment's usage for package versions
+- Reverse-engineer A3 program
+- Complete Skillset 4: Calorie Percentage
+- Complete Skillset 5: Python Selection Structures
+- Complete Skillset 6: Python Loops
