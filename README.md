@@ -35,3 +35,11 @@
 - Complete Skillset 4: Calorie Percentage
 - Complete Skillset 5: Python Selection Structures
 - Complete Skillset 6: Python Loops
+
+  4.[P1 README.md](a3/README.md "My P1 README.md file")
+
+- Ensure Python test environment's usage for package versions
+- Ensure Python test environment's usage for package versions
+- Complete Skillset 7: Using Lists
+- Complete Skillset 8: Using Tuples
+- Complete Skillset 9: Using Sets

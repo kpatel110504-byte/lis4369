@@ -33,7 +33,3 @@
 
 - [SS9 Functions](../skillsets/ss9_using_sets/functions.py)
 - ![SS9 Screenshot](img/SS9 Functions.png)
-
-### Repository Access
-
-Provide read-only access to the main Bitbucket `lis4369` repository.
