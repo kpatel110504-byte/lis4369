@@ -11,7 +11,9 @@
 ### P1 Program
 
 - **Notebook:** [p1.ipynb](p1.ipynb)
-- **P1 GIF:** ![P1 Reverse-Engineered Program](<P1 Reverse-Engineered Program.gif>)
+  _P1 Reverse-Engineered Program:_
+
+![P1 Reverse-Engineered Program](img/P1 Reverse-Engineered Program.gif)
 
 ### Assignment Skillsets
 
@@ -20,17 +22,17 @@
 #### Skillset 7: Using Lists
 
 - [SS7 Functions](../skillsets/ss7_using_lists/functions.py)
-- ![SS7 Screenshot](ss7.png)
+- ![SS7 Screenshot](SS7 Functions.png)
 
 #### Skillset 8: Using Tuples
 
 - [SS8 Functions](../skillsets/ss8_using_tuples/functions.py)
-- ![SS8 Screenshot](ss8.png)
+- ![SS8 Screenshot](SS8 Functions.png)
 
 #### Skillset 9: Using Sets
 
 - [SS9 Functions](../skillsets/ss9_using_sets/functions.py)
-- ![SS9 Screenshot](ss9.png)
+- ![SS9 Screenshot](SS9 Functions.png)
 
 ### Repository Access
 
