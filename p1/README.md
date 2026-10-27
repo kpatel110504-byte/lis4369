@@ -10,14 +10,14 @@
 
 ### P1 Program
 
--**Notebook:** [p1.ipynb](p1.ipynb)
+**Notebook:** [p1.ipynb](p1.ipynb)
 _P1 Reverse-Engineered Program:_
 
 ![P1 Reverse-Engineered Program](img/P1 Reverse-Engineered Program.gif)
 
 ### Assignment Skillsets
 
--**Skillsets Home Directory:** [View All Skillsets](../skillsets/)
+**Skillsets Home Directory:** [View All Skillsets](../skillsets/)
 
 #### Skillset 7: Using Lists
 
@@ -29,4 +29,4 @@ _P1 Reverse-Engineered Program:_
 
 #### Skillset 9: Using Sets
 
--[SS9 Functions](../skillsets/ss9_using_sets/functions.py) ![SS9 Screenshot](img/SS9 Functions.png)
+[SS9 Functions](../skillsets/ss9_using_sets/functions.py) ![SS9 Screenshot](img/SS9 Functions.png)
