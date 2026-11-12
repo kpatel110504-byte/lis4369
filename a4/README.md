@@ -21,7 +21,7 @@
 
 _A4 Reverse-Engineered Program:_
 
-![A4 Reverse-Engineered Program](img/A4Reverse-Engineered Program.gif)
+![A4 Reverse-Engineered Program](img/A4 Reverse-Engineered Program.gif)
 
 ### Assignment Skillsets:
 
