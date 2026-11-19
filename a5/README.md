@@ -19,17 +19,15 @@
 
 **R File:** [learn_to_use_r.R](learn_to_use_r.R)
 
-**RStudio Screenshot:**
+### RStudio Screenshot
 
-![learn_to_use_r](learn_to_use_r.png)
+![learn_to_use_r](a5/img/learn_to_use_r.png)
 
-**Plots:**
+### Plots
 
-![Learn to Use R Plot](learn_use_R.png)
+![Learn to Use R Plot](a5/img/learn_use_R.png)
 
-![GGPlot Scatterplot](ggplot_scatter.png)
-
----
+## ![GGPlot Scatterplot](a5/img/ggplot_scatter.png)
 
 ### 2. lis4369_a5.R File
 
