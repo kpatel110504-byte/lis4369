@@ -23,11 +23,9 @@
 
 ![learn_to_use_r](a5/img/learn_to_use_r.png)
 
-### Plots
-
 ![Learn to Use R Plot](a5/img/learn_use_R.png)
 
-## ![GGPlot Scatterplot](a5/img/ggplot_scatter.png)
+![GGPlot Scatterplot](a5/img/ggplot_scatter.png)
 
 ### 2. lis4369_a5.R File
 
