@@ -21,11 +21,11 @@
 
 ### RStudio Screenshot
 
-![learn_to_use_r](img/learn_to_use_r.png)
+![learn_to_use_r](img/learn_use.png)
 
 ### Plots
 
-![Learn to Use R Plot](img/learn_use_R.png)
+![Learn to Use R Plot](img/learn_plot1.png)
 
 ![GGPlot Scatterplot](img/ggplot_scatter.png)
 
