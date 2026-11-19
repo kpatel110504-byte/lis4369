@@ -31,16 +31,17 @@
 
 ### 2. lis4369_a5.R File
 
-**R File:** [lis4369_a5.R](YOUR_BITBUCKET_LINK)
+**R File:** [lis4369_a5.R](lis4369_a5.R)
 
 **RStudio Screenshot:**
 
-![lis4369_a5.R Screenshot](YOUR_SCREENSHOT_LINK)
+![lis4369_a5.R Screenshot](img/lis4369_a5.png)
 
 **Example Plots for lis4369_a5.R:**
 
-- [Scatterplot](YOUR_SCATTERPLOT_LINK)
-- [Boxplot](YOUR_BOXPLOT_LINK)
+![Scatterplot](img/scatterplot.png)
+
+![Boxplot](img/boxplot.png)
 
 ---
 
