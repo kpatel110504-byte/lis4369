@@ -45,25 +45,16 @@
 
 ---
 
-## 3. Skillsets
+**### Assignment Skillsets:**
 
-### Skillset 13: Python Sphere Volume Calculator
+**#### **Skillset 13: Python Sphere Volume Calculator:** [SS13 Functions](../skillsets/ss13_sphere_volume_calculator/)**
 
-- **Main Directory:** [SS13 Home Directory](../skillsets/ss13_sphere_volume_calculator/)
-- **Screenshot:** [SS13 Screenshot](img/SS13.png)
+![SS13 Screenshot](img/SS13.png)
 
----
+**#### **Skillset 14: Python Calculator with Error Handling:** [SS14 Functions](../skillsets/ss14_calculator_with_error_handling/)**
 
-### Skillset 14: Python Calculator with Error Handling
+![SS14 Screenshot](img/SS14.png)
 
-- **Main Directory:** [SS14 Home Directory](../skillsets/ss14_calculator_with_error_handling/)
-- **Screenshot:** [SS14 Screenshot](img/SS14.png)
+**#### **Skillset 15: Python File Write Read:** [SS15 Functions](../skillsets/ss15_file_write_read/)**
 
----
-
-### Skillset 15: Python File Write Read
-
-- **Main Directory:** [SS15 Home Directory](../skillsets/ss15_file_write_read/)
-- **Screenshot:** [SS15 Screenshot](img/SS15.png)
-
----
+![SS15 Screenshot](img/SS15.png)
