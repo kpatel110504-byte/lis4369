@@ -21,7 +21,7 @@
 
 ### RStudio Screenshot
 
-![learn_to_use_r](img/learn_use.png)
+![learn_to_use_r](img/learn_r.png)
 
 ### Plots
 
