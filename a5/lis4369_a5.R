@@ -1,4 +1,3 @@
-
 # clear RStudio console, environment, plot panes and free up memory at once:
 rm(list = ls(envir = globalenv()), envir = globalenv()); if(!is.null(dev.list())) dev.off(); gc(); cat("\014")
 
@@ -125,7 +124,7 @@ titanic_no_missing_data # display new data set w/o missing values
 # charting/plotting
 help(stripchart) # help command
 
-pdf(file="myplotfile.pdf")
+pdf(file = "/Users/khushipatel/My Projects /lis4369/a5/myplotfile.pdf")
 stripchart(titanic_no_missing_data$Age) # strip chart
 
 # histogram
@@ -137,18 +136,12 @@ boxplot(titanic_no_missing_data$Age)
 dev.off()
 
 # or plotted horizontally
-# png(filename = "boxplot.png",
-#     width = 800, height = 600, units = "px", pointsize = 12, bg = "burlywood")
+png(filename = "boxplot.png",
+    width = 800, height = 600, units = "px", pointsize = 12, bg = "burlywood")
 boxplot(titanic_no_missing_data$Age,
-        main = "Distribution of Titanic Passengers Ages",
-        col = "green",
-        pch = 19,
-        xlab = "Ages",
-        horizontal = TRUE,
-        col.main = "green",
-        col.lab = "green",
-        col.axis = "green")
-
+        main='Distribution of Titanic Passengers Ages',
+        xlab='Ages',
+        horizontal=TRUE)
 
 dev.off()
 
@@ -161,7 +154,7 @@ dev.off()
 
 # create scatterplot png
 png(filename = "scatterplot.png",
-    width = 800, height = 600, units = "px", pointsize = 12, bg = "yellow")
+    width = 800, height = 600, units = "px", pointsize = 12, bg = "cadetblue")
 
 plot(titanic_no_missing_data$Age, titanic_no_missing_data$Survived,
      main = "Relationship Between Ages and Survival",
